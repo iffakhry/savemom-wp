@@ -1,0 +1,206 @@
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.check.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.close.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.delete.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.favs.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.new.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\favorite.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\stop.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\transport.pause.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Assets\Images\transport.play.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\Images\bayi-iler-depan-ts.jpg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\Images\crystal x wanita.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\Images\ibuhamil2.jpeg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\Images\mual.jpg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\KuisData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\PertanyaanData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\SaveMomData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\TipsData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\Videos\Rek Ayo Rek.mp4
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Content\Videos\video.mp4
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\SplashScreenImage.jpg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\ViewModel\JumlahViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\ViewModel\KuisViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\ViewModel\MainViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\ViewModel\PertanyaanViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\ViewModel\TipsViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\sm.dll.config
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\sm.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\sm.pdb
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\AppManifest.xaml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\sm_Release_AnyCPU.xap
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\HereLauncher.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\App.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\BantuanPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\BenarSalah.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\DaftarPenanganan.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\DetailPertanyaan.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\DetailTips.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\firstaid.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\FormKalender.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\IntroKuis.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\KalenderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\KalenderReminder.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\KuisPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\MainPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\kalender.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\NewReminderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\PelayananTerdekat.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\PenangananPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\PertanyaanPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\ReminderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\ResultKuis.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\tentang.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\TipsPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\sm.g.resources
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\sm.Resources.AppResources.resources
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\sm.csproj.GenerateResource.Cache
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\sm.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\sm.pdb
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\XapCacheFile.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Release\sm.csprojResolveAssemblyReference.cache
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.check.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.close.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.delete.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.favs.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.new.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\favorite.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\stop.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\transport.pause.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\transport.play.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\bayi-iler-depan-ts.jpg
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\crystal x wanita.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\ibuhamil2.jpeg
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\mual.jpg
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\KuisData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\PertanyaanData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\SaveMomData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\TipsData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Videos\Rek Ayo Rek.mp4
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Videos\video.mp4
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\JumlahViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\KuisViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\MainViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\PertanyaanViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\TipsViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm.dll.config
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm.pdb
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\AppManifest.xaml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm_Release_AnyCPU.xap
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\HereLauncher.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.csprojResolveAssemblyReference.cache
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\App.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\BantuanPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\BenarSalah.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\DaftarPenanganan.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\DetailPertanyaan.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\DetailTips.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\ExtendedSplashScreen.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\firstaid.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\FormKalender.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\IntroKuis.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\KalenderPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\KalenderReminder.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\KuisPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\MainPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\kalender.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\NewReminderPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\PelayananTerdekat.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\PenangananPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\PertanyaanPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\ReminderPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\ResultKuis.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\tentang.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\TipsPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.g.resources
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.Resources.AppResources.resources
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.csproj.GenerateResource.Cache
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.pdb
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\XapCacheFile.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\ApplicationIcon.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Tiles\IconicTileSmall.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.check.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.close.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.delete.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.favs.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\appbar.new.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\favorite.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\stop.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\transport.pause.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Assets\Images\transport.play.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\bayi-iler-depan-ts.jpg
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\crystal x wanita.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\ibuhamil2.jpeg
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Images\mual.jpg
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\KuisData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\PertanyaanData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\SaveMomData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\TipsData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Videos\Rek Ayo Rek.mp4
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Content\Videos\video.mp4
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\JumlahViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\KuisViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\MainViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\PertanyaanViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\ViewModel\TipsViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm.dll.config
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm.pdb
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\AppManifest.xaml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Properties\WMAppManifest.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\sm_Release_AnyCPU.xap
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\HereLauncher.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Microsoft.Phone.Controls.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.csprojResolveAssemblyReference.cache
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\App.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\BantuanPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\BenarSalah.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\DaftarPenanganan.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\DetailPertanyaan.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\DetailTips.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\ExtendedSplashScreen.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\firstaid.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\FormKalender.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\IntroKuis.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\KalenderPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\KalenderReminder.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\KuisPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\MainPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\kalender.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\NewReminderPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\PelayananTerdekat.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\PenangananPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\PertanyaanPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\ReminderPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\ResultKuis.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\tentang.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\TipsPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.g.resources
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.Resources.AppResources.resources
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.csproj.GenerateResource.Cache
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\sm.pdb
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Release\XapCacheFile.xml

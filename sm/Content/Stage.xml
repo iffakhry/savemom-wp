@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sonnets>
+  <Stage>
+    <Id>1</Id>
+    <Content>1</Content>
+    <Status>1</Status>
+  </Stage>
+  <Stage>
+    <Id>2</Id>
+    <Content>2</Content>
+    <Status>0</Status>
+  </Stage>
+  <Stage>
+    <Id>3</Id>
+    <Content>3</Content>
+    <Status>0</Status>
+  </Stage>
+<Stage>
+    <Id>4</Id>
+    <Content>4</Content>
+    <Status>0</Status>
+  </Stage>
+<Stage>
+    <Id>5</Id>
+    <Content>5</Content>
+    <Status>0</Status>
+  </Stage>
+<Stage>
+    <Id>6</Id>
+    <Content>6</Content>
+    <Status>0</Status>
+  </Stage>
+</Sonnets>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sonnets>
+  <Pertanyaan>
+    <Judul id="1">Ngidam dan Bayi Ngeces</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Benarkah Kalau ngidamnya ibu hamil tidak dituruti bayinya akan ngiler / ngeces?</Number>
+    <Favorit>True</Favorit>
+    <Body label="default">
+      <Line>Ngiler (drooling) dikenal pula dengan ngeces tak ada hubungannya dengan mengidam. Sampai saat ini, tak ada hasil penelitian yang membuktikan adanya keterkaitan antara ngeces dan ngidam. 
+Penyebab bayi ngiler adalah:
+a.	Ketidakmampuan menelan ludah
+b.	Ketidakmampuan mempertahankan ludah di dalam mulut
+c.	Produksi cairan ludah yang berlebihan
+</Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="2">Pengaruh Makan Buah Strawberry</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Jangan makan buah strawberry, karena mengakibatkan bercak-bercak pada kulit bayi. Benarkah?</Number>
+    <Favorit>False</Favorit>
+    <Body label="default">
+      <Line>Strawberry justru baik untuk ibu hamil karena mengandung 40 mikrogram asam folat, yang sangat dianjurkan untuk ibu hamil. Asam folat sendiri adalah folacin atau vitamin B9 yang jika mana dikonsumsi ibu hamil dapat mencegah cacat pada bayi dan anemia pada sang ibu.</Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="3">Melilitkan handuk di leher</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Apakah benar, Ibu hamil dilarang melilitkan handuk di leher agar anak yang dikandungnya tak terlilit tali pusat?</Number>
+    <Favorit>True</Favorit>
+    <Body label="default">
+      <Line>hiperaktivitas gerakan bayilah karena ibu terlalu aktif  yang diduga dapat menyebabkan lilitan tali pusat. Jadi, tak heran bila ada anjuran agar ibu hamil sudah mengambil cuti sebulan menjelang persalinan. </Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="4">Makan ikan mentah</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Jangan makan ikan mentah agar bayinya tak bau amis. Benarkah hal tersebut?</Number>
+    <Favorit>True</Favorit>
+    <Body label="default">
+      <Line>Bayi yang baru saja dilahirkan dan belum dibersihkan memang sedikit berbau amis. Namun ini karena darah yang ikut menempel di janin, bukan karena faktor makanan.
+        Makanan mentah dilarang bukan karena menimbulkan bau amis, tapi dikhawatirkan mengandung bakteri yang belum mati karena tidak dimasak terlebih dulu. Dan tak hanya ikan, sayuran dan buah mentah juga dilarang bagi ibu hamil karena alasan yang sama.
+      </Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="5">Pengaruh minum es</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Jangan minum air es agar bayinya tak besar?</Number>
+    <Favorit>False</Favorit>
+    <Body label="default">
+      <Line>Sebenarnya yang menyebabkan bayi besar bukan esnya, tapi kandungan gula yang terkandung di dalam es teh, es limun ataupun es sirup. Jadi selama minum air es tanpa gula atau tambahan apapun (air putih dingin), tidak ada masalah. Namun minum air es berlebihan juga bisa menyebabkan ulu hati terasa sesak dan membuat ibu hamil merasa tak nyaman </Line>
+      </Body>
+  </Pertanyaan>
+</Sonnets>

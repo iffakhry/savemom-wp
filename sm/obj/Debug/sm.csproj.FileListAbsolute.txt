@@ -1,0 +1,420 @@
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sm.dll
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sm.pdb
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\AppManifest.xaml
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sm_Debug_AnyCPU.xap
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\App.g.cs
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\MainPage.g.cs
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\sm.g.resources
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\sm.Resources.AppResources.resources
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\sm.csproj.GenerateResource.Cache
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\sm.dll
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\sm.pdb
+c:\users\singgih saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\XapCacheFile.xml
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\firstaid.g.cs
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\sm.csprojResolveAssemblyReference.cache
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\kalender.g.cs
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\Bin\Debug\SplashScreenImage.jpg
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\tentang.g.cs
+C:\Users\Singgih Saputra\documents\visual studio 2012\Projects\sm\sm\obj\Debug\bantuan.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\SplashScreenImage.jpg
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\sm.dll
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\sm.pdb
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\AppManifest.xaml
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\sm_Debug_AnyCPU.xap
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\sm.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\App.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\firstaid.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\MainPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\kalender.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\tentang.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\sm.g.resources
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\sm.Resources.AppResources.resources
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\sm.csproj.GenerateResource.Cache
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\sm.dll
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\sm.pdb
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\XapCacheFile.xml
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\KuisData.xml
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\PertanyaanData.xml
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\SaveMomData.xml
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\TipsData.xml
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\ViewModel\JumlahViewModel.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\ViewModel\KuisViewModel.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\ViewModel\MainViewModel.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\ViewModel\PertanyaanViewModel.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\ViewModel\TipsViewModel.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\PertanyaanPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\DetailPertanyaan.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\appbar.favs.rest.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\favorite.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\TipsPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\DetailTips.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\BenarSalah.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\IntroKuis.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\KuisPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\ResultKuis.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\FormKalender.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\NewReminderPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\sm.dll.config
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\HereLauncher.dll
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\PelayananTerdekat.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\appbar.new.rest.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\appbar.check.rest.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\appbar.close.rest.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\appbar.delete.rest.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\BantuanPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\stop.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\transport.pause.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Assets\Images\transport.play.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\Videos\video.mp4
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\DaftarPenanganan.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\PenangananPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\Images\bayi-iler-depan-ts.jpg
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\Images\crystal x wanita.png
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\Images\ibuhamil2.jpeg
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\Images\mual.jpg
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\Bin\Debug\Content\Videos\Rek Ayo Rek.mp4
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\KalenderPage.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\KalenderReminder.g.cs
+C:\Users\Yusuf Aji Wibowo\Documents\sm\sm\obj\Debug\ReminderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.check.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.close.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.delete.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.favs.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.new.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\favorite.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\stop.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.pause.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.play.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\Images\bayi-iler-depan-ts.jpg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\Images\crystal x wanita.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\Images\ibuhamil2.jpeg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\Images\mual.jpg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\KuisData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\PertanyaanData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\SaveMomData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\TipsData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\Videos\Rek Ayo Rek.mp4
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Content\Videos\video.mp4
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\ViewModel\JumlahViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\ViewModel\KuisViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\ViewModel\MainViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\ViewModel\PertanyaanViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\ViewModel\TipsViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\sm.dll.config
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\sm.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\sm.pdb
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\AppManifest.xaml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\sm_Debug_AnyCPU.xap
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\HereLauncher.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\sm.csprojResolveAssemblyReference.cache
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\App.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\BantuanPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\BenarSalah.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\DaftarPenanganan.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\DetailPertanyaan.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\DetailTips.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\firstaid.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\FormKalender.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\IntroKuis.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\KalenderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\KalenderReminder.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\KuisPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\MainPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\kalender.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\NewReminderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\PelayananTerdekat.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\PenangananPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\PertanyaanPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\ReminderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\ResultKuis.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\tentang.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\TipsPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\sm.g.resources
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\sm.Resources.AppResources.resources
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\sm.csproj.GenerateResource.Cache
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\sm.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\sm.pdb
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\XapCacheFile.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\sm iso\sm\sm\obj\Debug\ExtendedSplashScreen.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.check.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.close.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.delete.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.favs.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.new.rest.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\favorite.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\stop.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.pause.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.play.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\bayi-iler-depan-ts.jpg
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\crystal x wanita.png
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\ibuhamil2.jpeg
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\mual.jpg
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\KuisData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\PertanyaanData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\SaveMomData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\TipsData.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Videos\Rek Ayo Rek.mp4
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Videos\video.mp4
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\JumlahViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\KuisViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\MainViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\PertanyaanViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\TipsViewModel.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.dll.config
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.pdb
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\AppManifest.xaml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm_Debug_AnyCPU.xap
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\HereLauncher.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.csprojResolveAssemblyReference.cache
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\App.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\BantuanPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\BenarSalah.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DaftarPenanganan.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DetailPertanyaan.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DetailTips.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ExtendedSplashScreen.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\firstaid.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\FormKalender.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\IntroKuis.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KalenderPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KalenderReminder.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KuisPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\MainPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\kalender.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\NewReminderPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PelayananTerdekat.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PenangananPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PertanyaanPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ReminderPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ResultKuis.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\tentang.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\TipsPage.g.cs
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.g.resources
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.Resources.AppResources.resources
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.csproj.GenerateResource.Cache
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.dll
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.pdb
+C:\Users\Singgih Saputra\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\XapCacheFile.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.check.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.close.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.delete.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.favs.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.new.rest.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\favorite.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\stop.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.pause.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.play.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\bayi-iler-depan-ts.jpg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\crystal x wanita.png
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\ibuhamil2.jpeg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\mual.jpg
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\KuisData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\PertanyaanData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\SaveMomData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\TipsData.xml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Videos\Rek Ayo Rek.mp4
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Videos\video.mp4
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\JumlahViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\KuisViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\MainViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\PertanyaanViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\TipsViewModel.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.dll.config
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.pdb
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\AppManifest.xaml
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm_Debug_AnyCPU.xap
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\HereLauncher.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.csprojResolveAssemblyReference.cache
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\App.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\BantuanPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\BenarSalah.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DaftarPenanganan.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DetailPertanyaan.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DetailTips.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ExtendedSplashScreen.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\firstaid.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\FormKalender.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\IntroKuis.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KalenderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KalenderReminder.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KuisPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\MainPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\kalender.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\NewReminderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PelayananTerdekat.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PenangananPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PertanyaanPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ReminderPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ResultKuis.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\tentang.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\TipsPage.g.cs
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.g.resources
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.Resources.AppResources.resources
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.csproj.GenerateResource.Cache
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.dll
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.pdb
+C:\Users\Fakhry\Documents\Visual Studio 2012\Projects\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\XapCacheFile.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\ApplicationIcon.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.check.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.close.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.delete.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.favs.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\appbar.new.rest.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\favorite.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\stop.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.pause.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Assets\Images\transport.play.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\bayi-iler-depan-ts.jpg
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\crystal x wanita.png
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\ibuhamil2.jpeg
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Images\mual.jpg
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\KuisData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\PertanyaanData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\SaveMomData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\TipsData.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Videos\Rek Ayo Rek.mp4
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Content\Videos\video.mp4
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\JumlahViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\KuisViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\MainViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\PertanyaanViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\ViewModel\TipsViewModel.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.dll.config
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm.pdb
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\AppManifest.xaml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Properties\WMAppManifest.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\sm_Debug_AnyCPU.xap
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\HereLauncher.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.csprojResolveAssemblyReference.cache
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\App.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\BantuanPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\BenarSalah.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DaftarPenanganan.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DetailPertanyaan.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\DetailTips.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ExtendedSplashScreen.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\firstaid.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\FormKalender.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\IntroKuis.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KalenderPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KalenderReminder.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\KuisPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\MainPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\kalender.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\NewReminderPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PelayananTerdekat.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PenangananPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\PertanyaanPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ReminderPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\ResultKuis.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\tentang.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\TipsPage.g.cs
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.g.resources
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.Resources.AppResources.resources
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.csproj.GenerateResource.Cache
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.dll
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\sm.pdb
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\XapCacheFile.xml
+E:\FIX with splashscreen edit\sm iso\sm\sm\obj\Debug\StagePage.g.cs

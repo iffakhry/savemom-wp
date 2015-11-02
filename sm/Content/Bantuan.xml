@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sonnets>
+<menu>
+  <nama>First Aid</nama>
+  <body><line>Menu Penanganan : digunakan untuk melihat daftar penanganan pertolongan pertama pada ibu hamil. Setiap jenis penanganan yang dipilih akan menampilkan detail cara penanganan yang berisi video penanganan beserta langkah-langkahnya</line>
+  <line>Menu Panggilan : digunakan untuk melakukan panggilan darurat</line>
+    <line>Cara Menggunakan :</line>
+    <line>1. Pada Menu "First Aid", pilih menu "Penanganan". Akan muncul daftar penanganan pertama terhadap ibu hamil. pilih salah satu jenis penanganan untuk melihat detail penanganan(mencakup video singkat penanganan pertama)</line>
+    <line>2. Pilih Menu "Panggilan", </line>
+  </body>
+</menu>
+
+<menu>
+  <nama>Cari Pelayanan</nama>
+  <body>
+    <line>Menu Rumah Sakit : digunakan untuk mencari lokasi rumah sakit terdekat.</line>
+    <line>Menu Dokter : digunakan untuk mencari lokasi dokter terdekat.</line>
+    <line>Menu Bidan : digunakan untuk mencari lokasi Bidan terdekat.</line>
+    <line>Cara Menggunakan :</line>
+    <line>Pilih satah satu fitur yang dinginkan, Setiap Fitur dalam menu ini memanfaatkan maps untuk mengetahui lokasi tempat kita berada dan data - data rumah sakit yang berada di dekat kita, dengan menekan tiap icon akan langsung menuju ke aplikasi maps.</line>
+  </body>
+</menu>
+
+  <menu>
+    <nama>Kalender</nama>
+    <body>
+      <line>Menu kalender digunakan untuk melihat catatan - catatan selama masa kehamilan, dalam menu ini juga terdapat fitur "Pengingat". fungsi utamanya adalah untuk mengingatkan para Ibu hamil untuk minum 'Fe', namun user dapat menambahkan pengingat lain jika diperlukan</line>
+      <line>Cara Penggunaan :</line>
+      <line>Ketika anda memilih menu "Kalender" pertama kali, maka user akan dituntut untuk mengisi tanggal awal kehamilan, setelah itu nanti akan tampil catatan - catatan dari user.</line>
+      <line>Ketika user ingin membuat Pengingat, maka user tinggal menggeser layar, dan akan tampil Halaman pengingat. user dapat menambah catatan dengan memilih tombol "Tambah Pengingat"</line>
+    </body>
+  </menu>
+
+  <menu>
+    <nama>Tips</nama>
+    <body>
+      <line>Pada fitur tips ini menjelaskan kondisi - kondisi yang sering terjadi pada ibu hamil. didalamnya juga terdapat penyebab kondisi tersebut dan disertai cara penanganannya. </line>
+      <line>Cara Penggunaan :</line>
+      <line>user dapat melihat detail dari kondisi yang ada dengan menekan pada tulisan yang diinginkan. User dapat menambahkan tips tersebut ke daftar favorit untuk memudahkan dalam pencarian dengan menekan tombol bintang yang ada di bawah.</line>
+    </body>
+  </menu>
+
+  <menu>
+    <nama>FAQ</nama>
+    <body>
+      <line>FAQ berisi pertanyaan - pertanyaan yang sering muncul pada ibu hamil, maupun orang - orang yang ada disekitarnya.</line>
+      <line>Cara Penggunaan :</line>
+      <line>user dapat melihat detail dari pertanyaan yang ada dengan menekan pada tulisan yang diinginkan. User dapat menambahkan tips tersebut ke daftar favorit untuk memudahkan dalam pencarian dengan menekan tombol bintang yang ada di bawah</line>
+    </body>
+  </menu>
+
+  <menu>
+    <nama>Kuis</nama>
+    <body>
+      <line>Fitur "Kuis" ini digunakan untuk mengukur pengetahuan kita mengenai Kehamilan.</line>
+      <line>Cara Penggunaan :</line>
+      <line>Dalam fitur "Kuis" ini user akan ditunjukkan beberapa pertanyaan seputar kehamilan, user dapat menjawabnya dengan menekan jawaban yang ada. Diakhir kuis akan muncul skor benar kita.</line>
+    </body>
+  </menu>
+</Sonnets>

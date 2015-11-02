@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sonnets>
+  <Pertanyaan>
+    <Judul id="1">Cravings and Baby's drool</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Is it true that pregnant women crave but not obeyed the baby will drool?</Number>
+    <Favorit>True</Favorit>
+    <Body label="default">
+      <Line>Drool or salivating nothing to do with cravings. To date, no research results that prove a connection between droll and cravings. 
+Causes of baby drool is:
+a.	Inability to swallow
+b.	Inability to retain saliva in the mouth
+c.	Production of salivary fluid overload
+</Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="2">Effect of Eating Strawberry</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Do not eat strawberries, because it will cause spots on the baby's skin. Really?</Number>
+    <Favorit>False</Favorit>
+    <Body label="default">
+      <Line>Strawberry justru baik untuk ibu hamil karena mengandung 40 mikrogram asam folat, yang sangat dianjurkan untuk ibu hamil. Asam folat sendiri adalah folacin atau vitamin B9 yang jika mana dikonsumsi ibu hamil dapat mencegah cacat pada bayi dan anemia pada sang ibu.</Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="3">Wrapped a towel around the neck</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Is it true that pregnant women are prohibited to wrap a towel around the neck so that the baby she is carrying is not twisted by the umbilical cord?</Number>
+    <Favorit>True</Favorit>
+    <Body label="default">
+      <Line>hiperaktivitas gerakan bayilah karena ibu terlalu aktif  yang diduga dapat menyebabkan lilitan tali pusat. Jadi, tak heran bila ada anjuran agar ibu hamil sudah mengambil cuti sebulan menjelang persalinan. </Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="4">Eating raw fish</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Do not eat raw fish so that the baby does not smell fishy. Really it?</Number>
+    <Favorit>True</Favorit>
+    <Body label="default">
+      <Line>Bayi yang baru saja dilahirkan dan belum dibersihkan memang sedikit berbau amis. Namun ini karena darah yang ikut menempel di janin, bukan karena faktor makanan.
+        Makanan mentah dilarang bukan karena menimbulkan bau amis, tapi dikhawatirkan mengandung bakteri yang belum mati karena tidak dimasak terlebih dulu. Dan tak hanya ikan, sayuran dan buah mentah juga dilarang bagi ibu hamil karena alasan yang sama.
+      </Line>
+    </Body>
+  </Pertanyaan>
+  <Pertanyaan>
+    <Judul id="5">Effect of drinking ice</Judul>
+    <Gambar>Content/Images/bayi-iler-depan-ts.jpg</Gambar>
+    <Number>Do not drink ice water so the baby is not big?</Number>
+    <Favorit>False</Favorit>
+    <Body label="default">
+      <Line>Sebenarnya yang menyebabkan bayi besar bukan esnya, tapi kandungan gula yang terkandung di dalam es teh, es limun ataupun es sirup. Jadi selama minum air es tanpa gula atau tambahan apapun (air putih dingin), tidak ada masalah. Namun minum air es berlebihan juga bisa menyebabkan ulu hati terasa sesak dan membuat ibu hamil merasa tak nyaman </Line>
+      </Body>
+  </Pertanyaan>
+</Sonnets>

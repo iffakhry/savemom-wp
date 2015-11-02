@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sonnets>
+  <Kuis>
+    <Number id="1">Bagaimana posisi ibu saat dibawa ke rumah sakit?</Number>
+    <Stage>1</Stage>
+    <A>Tengkurap</A>
+    <B>Kaki sejajar dengan kepala</B>
+    <C>Kaki agak ditinggikan</C>
+    <D>Tubuh dimiringkan</D>
+    <Benar>C</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="2">Pada saat ibu hami berikan?</Number>
+    <Stage>1</Stage>
+    <A>Zat besi</A>
+    <B>Vitamin C</B>
+    <C>Susu</C>
+    <D>Air Putih</D>
+    <Benar>D</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="3">Imunisasi apa yang dapat diberikan pada saat hamil?</Number>
+    <Stage>1</Stage>
+    <A>Imunisasi TT</A>
+    <B>Imunisasi cacar</B>
+    <C>Imunisasi campak</C>
+    <D>Imunisasi polio aktif</D>
+    <Benar>A</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="4">Bagaimana cara mengurangi kaki bengkak pada saat hamil?</Number>
+    <Stage>1</Stage>
+    <A>Memakai pakaian ketat</A>
+    <B>Posisi terlentang saat berbaring</B>
+    <C>Memakai kaus kaki</C>
+    <D>Latihan mengangkat kaki secara teratur</D>
+    <Benar>D</Benar>
+  </Kuis>
+<Kuis>
+    <Number id="5">Ini adalah pertanyaan lima?</Number>
+    <Stage>2</Stage>
+    <A>Jawaban A</A>
+    <B>Jawaban B</B>
+    <C>Jawaban C</C>
+    <D>Jawaban D</D>
+    <Benar>A</Benar>
+  </Kuis>
+<Kuis>
+    <Number id="6">Bagaimana cara menangani sembelit?</Number>
+    <Stage>2</Stage>
+    <A>Menunda buang air</A>
+    <B>Kurangi minum air putih</B>
+    <C>Banyak mengonsumsi makanan berserat</C>
+    <D>Menghindari makan buah</D>
+    <Benar>C</Benar>
+  </Kuis>
+<Kuis>
+    <Number id="7">Apa penyebab sering buang keci pada kehamilan muda?</Number>
+    <Stage>2</Stage>
+    <A>Pembesaran rahim</A>
+    <B>Carian kurang terserap ke tubuh</B>
+    <C>Terlalu banyak minum</C>
+    <D>Terlalu banyak aktivitas</D>
+    <Benar>B</Benar>
+  </Kuis>
+<Kuis>
+    <Number id="8">Manakah yang bukan tanda bahaya kehamilan?</Number>
+    <Stage>2</Stage>
+    <A>Terjadi perdarahan</A>
+    <B>Demam yang sangat tinggi</B>
+    <C>Gatal-gatal</C>
+    <D>Nyeri pada perut bagian bawah</D>
+    <Benar>C</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="9">Makanan apa yang dihindari pada ibu hamil?</Number>
+    <Stage>2</Stage>
+    <A>Makanan berserat</A>
+    <B>Makanan pedas</B>
+    <C>Makanan yang mengandung alkohol</C>
+    <D>Makanan manis</D>
+    <Benar>C</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="10">Sampai kapankah mual dan muntah berlangsung?</Number>
+    <Stage>2</Stage>
+    <A>3 bulan pertama</A>
+    <B>7 bulam</B>
+    <C>Selama kehamilan</C>
+    <D>5 bulan</D>
+    <Benar>C</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="11">Pemberian tablet besi (Fe) berapa kali sehari?</Number>
+    <Stage>3</Stage>
+    <A>1 kali</A>
+    <B>2 kali</B>
+    <C>berkali-kali</C>
+    <D>Tidak perlu</D>
+    <Benar>A</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="12">Pemeriksaan kehamilan minimal dilakukan berapa kali?</Number>
+    <Stage>3</Stage>
+    <A>2 kali</A>
+    <B>4 kali</B>
+    <C>3 kali</C>
+    <D>10 kali</D>
+    <Benar>B</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="13">Bagaimana posisi tidur ibu hamil yang paling baik?</Number>
+    <Stage>3</Stage>
+    <A>Tengkurap</A>
+    <B>Terlentanag</B>
+    <C>Miring kiri</C>
+    <D>Miring kanan</D>
+    <Benar>C</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="14">Apa yang dilakukan ketika ketuban pecah dini?</Number>
+    <Stage>3</Stage>
+    <A>Berikan infus</A>
+    <B>Hubungi tenaga medis</B>
+    <C>Cari dukun</C>
+    <D>Berikan susu</D>
+    <Benar>B</Benar>
+  </Kuis>
+  <Kuis>
+    <Number id="15">Berikut ini yang dapat dilakukan untuk menangani mual dan muntah adalah ..., kecuali?</Number>
+    <Stage>3</Stage>
+    <A>Berikan cairan</A>
+    <B>Makan sedikit tapi sering</B>
+    <C>Makan biskuit</C>
+    <D>Makan buah</D>
+    <Benar>A</Benar>
+  </Kuis>
+</Sonnets>
